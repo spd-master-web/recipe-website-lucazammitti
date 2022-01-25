@@ -1,0 +1,145 @@
+body, html {
+    
+    margin: 0px;
+    height: 100vh;
+width: 100vw;
+}
+
+#section1 {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: cover;
+    
+}
+
+#section1 {
+    
+    width: 100%;
+    height: 100%;
+    background-image: url(../image/cucina.jpg);
+    display: block;
+    
+}
+
+#section2 {
+    
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url(../image/lasagne.jpg);
+    display: block;
+    
+}
+
+#section3 {
+    
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url(../image/pesto.jpg);
+    display: block;
+    
+}
+
+#section4 {
+    
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url(../image/pizza.jpg);
+    display: block;
+    
+}
+
+
+
+h1  {
+    font-family: helvetica;
+    color:orange;
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+h2 {
+    font-family: helvetica;
+    margin-left: 70px;
+    margin-right: 100px;
+}
+
+h {
+    margin-left: 70px;
+    margin-right: 100px;
+}
+
+
+
+p  {
+    font-family: Helvetica;
+    color:black;
+    font-size: 18px;
+    margin-left: 70px;
+     margin-right: 250px;
+    margin-top: 0px;
+    padding-bottom: 90px;
+    text-align: left;
+   
+}
+
+
+
+
+
+ul {
+    width: 100%;
+    height: 110px;
+    background-color: mintcream;
+    position: fixed;
+    margin-top: 0px;
+    text-align: center;
+    padding-right: 90px;
+    padding-top: 15px;
+    
+}
+
+li {
+    font-family: Din Condensed;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 30px;
+    display: inline-block;
+    padding-right: 90px;
+    padding-top: 45px;
+   
+    
+    
+}
+
+list {
+    font-family: Din Condensed;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 30px;
+    display: inline-block;
+    padding-right: 90px;
+    padding-top: 45px;
+   
+    
+    
+}
